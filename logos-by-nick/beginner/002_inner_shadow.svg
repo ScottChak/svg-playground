@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="896"
+   height="640"
+   viewBox="0 0 237.06666 169.33334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="inner_shadow.svg">
+  <title
+     id="title1768">Inner Shadow Tutorial</title>
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1557">
+      <path
+         clip-path="none"
+         inkscape:connector-curvature="0"
+         id="path1559"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:91.805336px;line-height:1.25;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29513335"
+         d="m 159.27489,196.9801 -5.87232,17.25833 h 11.16188 z m -5.87232,46.53025 h -24.69958 v -14.92734 h 4.75165 l 11.6998,-32.49944 h -5.02061 v -14.92734 h 44.82683 v 14.92734 h -5.02061 l 11.92393,32.49944 h 4.57234 v 14.92734 h -32.54427 v -13.67218 h 5.46887 l -2.37582,-7.8447 h -15.95835 l -2.73443,7.8447 h 5.11025 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1561"
+       x="-0.011776504"
+       width="1.023553"
+       y="-0.012232143"
+       height="1.0244643">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.45309892"
+         id="feGaussianBlur1563" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1574">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1576"
+         d="m 31.485536,167.35408 v 88.9 h 92.339584 v -88.9 z m 23.733951,13.27309 h 44.826723 v 14.92724 h -5.020367 l 11.923827,32.49932 h 4.57233 v 14.92724 H 78.977726 v -13.67202 h 5.468919 l -2.376083,-7.84448 H 66.112364 l -2.734202,7.84448 h 5.110285 v 13.67202 H 43.788661 v -14.92724 h 4.751647 l 11.699544,-32.49932 h -5.020365 z m 19.140953,15.82384 -5.871993,17.25836 h 11.161588 z"
+         style="opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1598"
+       x="-0.011523495"
+       width="1.023047"
+       y="-0.012517612"
+       height="1.0250352">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.32521863"
+         id="feGaussianBlur1600" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1574-2">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1576-9"
+         d="m 31.485536,167.35408 v 88.9 h 92.339584 v -88.9 z m 23.733951,13.27309 h 44.826723 v 14.92724 h -5.020367 l 11.923827,32.49932 h 4.57233 v 14.92724 H 78.977726 v -13.67202 h 5.468919 l -2.376083,-7.84448 H 66.112364 l -2.734202,7.84448 h 5.110285 v 13.67202 H 43.788661 v -14.92724 h 4.751647 l 11.699544,-32.49932 h -5.020365 z m 19.140953,15.82384 -5.871993,17.25836 h 11.161588 z"
+         style="opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1557-0">
+      <path
+         clip-path="none"
+         inkscape:connector-curvature="0"
+         id="path1559-4"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:91.805336px;line-height:1.25;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29513335"
+         d="m 159.27489,196.9801 -5.87232,17.25833 h 11.16188 z m -5.87232,46.53025 h -24.69958 v -14.92734 h 4.75165 l 11.6998,-32.49944 h -5.02061 v -14.92734 h 44.82683 v 14.92734 h -5.02061 l 11.92393,32.49944 h 4.57234 v 14.92734 h -32.54427 v -13.67218 h 5.46887 l -2.37582,-7.8447 h -15.95835 l -2.73443,7.8447 h 5.11025 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="490.24001"
+     inkscape:cy="326.29761"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Inner Shadow Tutorial</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-127.66663)">
+    <g
+       id="g1631"
+       transform="translate(-23.445784,-49.391457)">
+      <g
+         transform="translate(30.121276,49.391409)"
+         id="g1626">
+        <path
+           inkscape:connector-curvature="0"
+           id="path819"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:91.805336px;line-height:1.25;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.29513335"
+           d="m 159.27484,196.98021 -5.87232,17.25833 h 11.16188 z m -5.87232,46.53025 h -24.69958 v -14.92734 h 4.75165 l 11.6998,-32.49944 h -5.02061 v -14.92734 h 44.82683 v 14.92734 H 179.94 l 11.92393,32.49944 h 4.57234 v 14.92734 H 163.892 v -13.67218 h 5.46887 l -2.37582,-7.8447 H 151.0267 l -2.73443,7.8447 h 5.11025 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path840"
+           d="m 116.39998,167.8833 v 88.89999 h 92.33958 V 167.8833 Z m 23.73395,13.27309 h 44.82672 v 14.92725 h -5.02036 l 11.92382,32.49931 h 4.57233 v 14.92725 h -32.54427 v -13.67203 h 5.46892 l -2.37608,-7.84448 h -15.9582 l -2.7342,7.84448 h 5.11028 v 13.67203 h -24.69978 v -14.92725 h 4.75164 l 11.69955,-32.49931 h -5.02037 z m 19.14095,15.82384 -5.87199,17.25837 h 11.16159 z"
+           style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.0583334;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1561)"
+           clip-path="url(#clipPath1557)" />
+      </g>
+    </g>
+    <g
+       id="g1604"
+       transform="translate(5.3763987,4.6980161e-6)">
+      <path
+         d="m 58.621186,196.9801 -5.87231,17.25833 h 11.16188 z m -5.87231,46.53026 h -24.69958 v -14.92735 h 4.75164 l 11.6998,-32.49944 h -5.0206 v -14.92734 h 44.82682 v 14.92734 h -5.0206 l 11.92393,32.49944 h 4.57234 v 14.92735 h -32.54428 v -13.67218 h 5.46888 l -2.37583,-7.8447 h -15.95835 l -2.73443,7.8447 h 5.11026 z"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:91.805336px;line-height:1.25;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.29513335"
+         id="path819-9"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="translate(-14.680917,1.058325)"
+         clip-path="url(#clipPath1574)"
+         inkscape:connector-curvature="0"
+         id="path828-7"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:91.805336px;line-height:1.25;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29513335;filter:url(#filter1598)"
+         d="m 73.302103,195.92178 -5.872314,17.25833 h 11.161879 z m -5.872314,46.53025 h -24.69958 v -14.92734 h 4.751643 l 11.699801,-32.49944 h -5.020604 v -14.92734 h 44.826824 v 14.92734 h -5.020604 l 11.923931,32.49944 h 4.57234 v 14.92734 H 77.919266 v -13.67218 h 5.468872 l -2.375822,-7.8447 H 65.053967 l -2.734436,7.8447 h 5.110258 z" />
+    </g>
+  </g>
+</svg>
