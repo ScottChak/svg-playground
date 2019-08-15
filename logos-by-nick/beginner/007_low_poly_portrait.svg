@@ -28,17 +28,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="362.68637"
-     inkscape:cy="351.03128"
+     inkscape:zoom="1"
+     inkscape:cx="200.18637"
+     inkscape:cy="271.03128"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
@@ -76,7 +76,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Background - Boundary"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:0.2;fill:#fcffff;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -90,13 +90,13 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Background - Vector"
-     style="display:none" />
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Face - Boundary"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;opacity:0.2;fill:#fcffff;fill-opacity:1;stroke:none;stroke-width:0.1080157;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="rect5802-2"
@@ -109,8 +109,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Face - Vector"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <path
        style="fill:#ebeee8;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 112.27659,17.448796 0.0234,0.760047 -2.29184,-0.187088 z"
